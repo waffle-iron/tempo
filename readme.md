@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/GardiansLab/tempo.png?label=ready&title=Ready)](https://waffle.io/GardiansLab/tempo)
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
